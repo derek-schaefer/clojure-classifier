@@ -1,0 +1,15 @@
+# clojure-classifier
+
+A simple naive Bayes classifier implemented in Clojure.
+
+It's not yet complete and it certainly isn't pretty.
+
+## Usage
+
+Use Leiningen for great good!
+
+## License
+
+Copyright (C) 2012 FIXME
+
+Distributed under the Eclipse Public License, the same as Clojure.
